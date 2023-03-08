@@ -122,4 +122,3 @@ namespace UmbrellaAcademy.Roster.Tests
         //var memberService = new MemberService(_rosterStorage);
     }
 }
-}
